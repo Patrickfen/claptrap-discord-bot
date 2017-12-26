@@ -4,5 +4,7 @@
     "!ping":["pong!"],
     "!pong":["pang!"],
     "!pang":["pong!"],
-    "!help":["Hi there!\nI'm CL4P-TP! but you can call me B4DA55 for short.\nIm here to manage you bunch."]
+    "!help":["Hi there!\nI'm CL4P-TP! but you can call me B4DA55 for short.\nIm here to manage you bunch."],
+    "!report":["!report.py"],
+    "!admin":["!admin.py"]
 }
