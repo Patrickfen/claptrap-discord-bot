@@ -16,7 +16,7 @@ client = discord.Client()
 
 @client.event
 async def on_message(message):
-    if(message.startswith("!")):
+    if(message.content.startswith("!")):
         try:
             response = random.choice(responses[message.content])
             await(client.send_message(message.channel, "```"+response+"```"))
