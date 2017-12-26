@@ -3,5 +3,6 @@
     "!coin":["I'm flipping a virtual coin... Yargh! How does a virtual coin land on its side!?", "It's heads!", "Tails!","It's heads!", "Tails!","It's heads!", "Tails!","It's heads!", "Tails!"],
     "!ping":["pong!"],
     "!pong":["pang!"],
-    "!pang":["pong!"]
+    "!pang":["pong!"],
+    "!help":["Hi there!\nI'm CL4P-TP! but you can call me B4DA55 for short.\nIm here to manage you bunch."]
 }
